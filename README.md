@@ -787,5 +787,3 @@ They should not be considered:
 # Author
 
 **Tanmay Pratap**
-
-Smart India Hackathon — Fishing Ground Productivity Prediction Prototype
